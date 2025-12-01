@@ -1,0 +1,9 @@
+{
+  "cache_time": 86400,
+  "api_site": {
+    "MissAV镜像1": { "api": "https://api.missavmirror.com/v1/vod", "detail": "https://missavmirror.com" },
+    "MissAV镜像2": { "api": "https://api.missav.one/v1/vod", "detail": "https://missav.one" },
+    "JAV免费源1": { "api": "https://javapi.heroskuapp.com/api/vod", "detail": "https://javheros.com" },
+    "JAV免费源2": { "api": "https://api.javbuz.com/api/vod", "detail": "https://www.javbuz.com" }
+  }
+}
